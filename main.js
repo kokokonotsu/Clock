@@ -80,5 +80,6 @@ function clock(){
         ctx.stroke();
         ctx.rotate(-pos);
     }
+    setInterval(drawClock, 1000);
 }
 window.addEventListener("load", clock);
