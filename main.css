@@ -1,0 +1,13 @@
+body, html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-size: 18px;
+}
+body{
+}
+/* #canvas{
+    height: 400px;
+    width: 400px;
+    background-color: #333;
+} */
